@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae322a77-feb9-4b6c-afc8-10b311ce0148" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/Sudoku_Solver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/Group_Anagrams.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,46 +22,81 @@
     <SUITE FILE_PATH="coverage/leetcode$Search_for_a_Range.coverage" NAME="Search_for_a_Range Coverage Results" MODIFIED="1521446931594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/demo$find_minimum_in_rotated_sorted_array.coverage" NAME="find_minimum_in_rotated_sorted_array Coverage Results" MODIFIED="1518156945725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$First_Missing_Positive.coverage" NAME="First_Missing_Positive Coverage Results" MODIFIED="1521524342547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/leetcode$Group_Anagrams.coverage" NAME="Group_Anagrams Coverage Results" MODIFIED="1522116498901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
     <SUITE FILE_PATH="coverage/leetcode$Next_Permutation.coverage" NAME="Next_Permutation Coverage Results" MODIFIED="1521182523570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
+    <SUITE FILE_PATH="coverage/leetcode$Add_Two_Numbers.coverage" NAME="Add_Two_Numbers Coverage Results" MODIFIED="1522136203778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
     <SUITE FILE_PATH="coverage/demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1518069465626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1521096162179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/leetcode$Search_in_Rotated_Sorted_Array.coverage" NAME="Search_in_Rotated_Sorted_Array Coverage Results" MODIFIED="1521443435329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/leetcode$Longest_Substring_without_Repeating_Characters.coverage" NAME="Longest_Substring_without_Repeating_Characters Coverage Results" MODIFIED="1521598020685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
+    <SUITE FILE_PATH="coverage/leetcode$Max_Points_on_a_line.coverage" NAME="Max_Points_on_a_line Coverage Results" MODIFIED="1522133235544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
     <SUITE FILE_PATH="coverage/leetcode$4Sum.coverage" NAME="4Sum Coverage Results" MODIFIED="1521602182484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
-    <SUITE FILE_PATH="coverage/leetcode$Sudoku_Solver.coverage" NAME="Sudoku_Solver Coverage Results" MODIFIED="1521702482690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
+    <SUITE FILE_PATH="coverage/leetcode$Sudoku_Solver.coverage" NAME="Sudoku_Solver Coverage Results" MODIFIED="1522034723339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
     <SUITE FILE_PATH="coverage/demo$house_robber.coverage" NAME="house robber Coverage Results" MODIFIED="1518078894916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$pre_order_tree.coverage" NAME="pre-order_tree Coverage Results" MODIFIED="1520924710396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$Combination_Sum.coverage" NAME="Combination_Sum Coverage Results" MODIFIED="1521509318720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/leetcode$contianer_with_most_water.coverage" NAME="contianer_with_most_water Coverage Results" MODIFIED="1521019255464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
     <SUITE FILE_PATH="coverage/leetcode$3Sum_Closest.coverage" NAME="3Sum_Closest Coverage Results" MODIFIED="1521162568230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="Group_Anagrams.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/hash_table/Group_Anagrams.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="637">
+                    <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Combination_Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/Combination_Sum.py">
+      <file leaf-file-name="Max_Points_on_a_line.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="484">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#39#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Add_Two_Numbers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="56" column="28" lean-forward="true" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="First_Missing_Positive.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/First_Missing_Positive.py">
+      <file leaf-file-name="math.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/math.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="327">
+              <caret line="216" column="4" lean-forward="false" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Longest_Substring_without_Repeating_Characters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash_table/Longest_Substring_without_Repeating_Characters.py">
+      <file leaf-file-name="Search_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="45" column="27" lean-forward="false" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+            <state relative-caret-position="-190">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -75,61 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Substring_with_concatenation_of_all_Words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash_table/Substring_with_concatenation_of_all_Words.py">
+      <file leaf-file-name="Search_for_a_Range.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/Search_for_a_Range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sudoku_Solver.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hash_table/Sudoku_Solver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="151" column="40" lean-forward="true" selection-start-line="151" selection-start-column="40" selection-end-line="151" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pre-order_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pre-order_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dumb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/dbm/dumb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4541">
-              <caret line="242" column="8" lean-forward="false" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3Sum_Closest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/3Sum_Closest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="4428" column="8" lean-forward="false" selection-start-line="4428" selection-start-column="8" selection-end-line="4428" selection-end-column="8" />
+            <state relative-caret-position="846">
+              <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -154,6 +141,7 @@
       <find>words</find>
       <find>10</find>
       <find>set</find>
+      <find>map</find>
     </findStrings>
     <replaceStrings>
       <replace>setCell</replace>
@@ -186,6 +174,9 @@
         <option value="$PROJECT_DIR$/hash_table/4Sum.py" />
         <option value="$PROJECT_DIR$/hash_table/Substring_with_concatenation_of_all_Words.py" />
         <option value="$PROJECT_DIR$/hash_table/Sudoku_Solver.py" />
+        <option value="$PROJECT_DIR$/hash_table/Group_Anagrams.py" />
+        <option value="$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py" />
+        <option value="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" />
       </list>
     </option>
   </component>
@@ -196,10 +187,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="x" value="113" />
+    <option name="y" value="246" />
+    <option name="width" value="1025" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,12 +222,7 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="hash_table" type="462c0819:PsiDirectoryNode" />
+              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,8 +252,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sudoku_Solver">
-    <configuration name="4Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Add_Two_Numbers">
+    <configuration name="Add_Two_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Group_Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -280,30 +284,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_table/4Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_table/Group_Anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="First_Missing_Positive" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/First_Missing_Positive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Longest_Substring_without_Repeating_Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Max_Points_on_a_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -316,7 +302,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_table/Longest_Substring_without_Repeating_Characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,19 +344,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.First_Missing_Positive" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Longest_Substring_without_Repeating_Characters" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4Sum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Substring_with_concatenation_of_all_Words" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Sudoku_Solver" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Substring_with_concatenation_of_all_Words" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Sudoku_Solver" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Group_Anagrams" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Max_Points_on_a_line" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Sudoku_Solver" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Substring_with_concatenation_of_all_Words" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4Sum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Longest_Substring_without_Repeating_Characters" />
-        <item index="4" class="java.lang.String" itemvalue="Python.First_Missing_Positive" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Max_Points_on_a_line" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Group_Anagrams" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Sudoku_Solver" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Substring_with_concatenation_of_all_Words" />
       </list>
     </recent_temporary>
   </component>
@@ -400,18 +386,18 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18976545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23294243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29815015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34494016" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2742111" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -545,6 +531,31 @@
           <line>118</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -553,45 +564,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="125" />
+      <option name="time" value="158" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="len(uncheck)" language="Python" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/post-order_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/werkzeug/local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="150" column="20" lean-forward="false" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3211">
-          <caret line="169" column="4" lean-forward="false" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/contianer_with_most_water.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sum_two.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -839,27 +816,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/Search_for_a_Range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Combination_Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,14 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hash_table/4Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/dbm/dumb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4541">
@@ -913,8 +865,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hash_table/Substring_with_concatenation_of_all_Words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="741">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -927,18 +879,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
+    <entry file="file://$PROJECT_DIR$/hash_table/Sudoku_Solver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="4428" column="8" lean-forward="false" selection-start-line="4428" selection-start-column="8" selection-end-line="4428" selection-end-column="8" />
+        <state relative-caret-position="2565">
+          <caret line="135" column="30" lean-forward="false" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hash_table/Sudoku_Solver.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="151" column="40" lean-forward="true" selection-start-line="151" selection-start-column="40" selection-end-line="151" selection-end-column="40" />
+        <state relative-caret-position="68267">
+          <caret line="3593" column="6" lean-forward="false" selection-start-line="3593" selection-start-column="6" selection-end-line="3593" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/Search_for_a_Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_table/4Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_table/Group_Anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="216" column="4" lean-forward="false" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="56" column="28" lean-forward="true" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
           <folding />
         </state>
       </provider>
