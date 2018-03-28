@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae322a77-feb9-4b6c-afc8-10b311ce0148" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/Group_Anagrams.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linked_list/Remove_Nth_Node_From_End_of_List.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" afterPath="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,6 +15,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$Remove_Nth_Node_From_End_of_List.coverage" NAME="Remove_Nth_Node_From_End_of_List Coverage Results" MODIFIED="1522219165257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
+    <SUITE FILE_PATH="coverage/leetcode$Merge_k_Sorted_Lists.coverage" NAME="Merge_k_Sorted_Lists Coverage Results" MODIFIED="1522223888412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
     <SUITE FILE_PATH="coverage/leetcode$median_of_two_sorted_arrays.coverage" NAME="median_of_two_sorted_arrays Coverage Results" MODIFIED="1520933128273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$remove_duplicates_from_sorted_array.coverage" NAME="remove_duplicates_from_sorted_array Coverage Results" MODIFIED="1521177016257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/demo$pre_order_tree.coverage" NAME="pre-order_tree Coverage Results" MODIFIED="1518157465647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -24,7 +26,7 @@
     <SUITE FILE_PATH="coverage/leetcode$First_Missing_Positive.coverage" NAME="First_Missing_Positive Coverage Results" MODIFIED="1521524342547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/leetcode$Group_Anagrams.coverage" NAME="Group_Anagrams Coverage Results" MODIFIED="1522116498901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hash_table" />
     <SUITE FILE_PATH="coverage/leetcode$Next_Permutation.coverage" NAME="Next_Permutation Coverage Results" MODIFIED="1521182523570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
-    <SUITE FILE_PATH="coverage/leetcode$Add_Two_Numbers.coverage" NAME="Add_Two_Numbers Coverage Results" MODIFIED="1522136203778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
+    <SUITE FILE_PATH="coverage/leetcode$Add_Two_Numbers.coverage" NAME="Add_Two_Numbers Coverage Results" MODIFIED="1522202236901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linked_list" />
     <SUITE FILE_PATH="coverage/demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1518069465626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1521096162179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
     <SUITE FILE_PATH="coverage/leetcode$Search_in_Rotated_Sorted_Array.coverage" NAME="Search_in_Rotated_Sorted_Array Coverage Results" MODIFIED="1521443435329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
@@ -42,7 +44,7 @@
     <window id="2">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file leaf-file-name="Group_Anagrams.py" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/hash_table/Group_Anagrams.py">
                 <provider selected="true" editor-type-id="text-editor">
@@ -63,7 +65,7 @@
       <file leaf-file-name="Max_Points_on_a_line.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
+            <state relative-caret-position="1083">
               <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="e#39#57#0" expanded="true" />
@@ -72,11 +74,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add_Two_Numbers.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Add_Two_Numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="56" column="28" lean-forward="true" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+            <state relative-caret-position="440">
+              <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Remove_Nth_Node_From_End_of_List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linked_list/Remove_Nth_Node_From_End_of_List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Merge_k_Sorted_Lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="3636" column="8" lean-forward="false" selection-start-line="3636" selection-start-column="8" selection-end-line="3636" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -85,7 +117,7 @@
       <file leaf-file-name="math.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/math.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="4104">
               <caret line="216" column="4" lean-forward="false" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
               <folding />
             </state>
@@ -95,7 +127,7 @@
       <file leaf-file-name="Search_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-190">
+            <state relative-caret-position="323">
               <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
@@ -115,7 +147,7 @@
       <file leaf-file-name="Search_for_a_Range.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/Search_for_a_Range.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
+            <state relative-caret-position="1349">
               <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
               <folding />
             </state>
@@ -142,6 +174,7 @@
       <find>10</find>
       <find>set</find>
       <find>map</find>
+      <find>list</find>
     </findStrings>
     <replaceStrings>
       <replace>setCell</replace>
@@ -176,7 +209,9 @@
         <option value="$PROJECT_DIR$/hash_table/Sudoku_Solver.py" />
         <option value="$PROJECT_DIR$/hash_table/Group_Anagrams.py" />
         <option value="$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py" />
+        <option value="$PROJECT_DIR$/linked_list/Remove_Nth_Node_From_End_of_List.py" />
         <option value="$PROJECT_DIR$/linked_list/Add_Two_Numbers.py" />
+        <option value="$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py" />
       </list>
     </option>
   </component>
@@ -186,10 +221,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="113" />
-    <option name="y" value="246" />
-    <option name="width" value="1025" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-967" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -210,7 +244,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,6 +261,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Add_Two_Numbers">
+  <component name="RunManager" selected="Python.Merge_k_Sorted_Lists">
     <configuration name="Add_Two_Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,56 +341,56 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Substring_with_concatenation_of_all_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Merge_k_Sorted_Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hash_table" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_table/Substring_with_concatenation_of_all_Words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Sudoku_Solver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove_Nth_Node_From_End_of_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hash_table" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linked_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_table/Sudoku_Solver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list/Remove_Nth_Node_From_End_of_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Substring_with_concatenation_of_all_Words" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Sudoku_Solver" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Group_Anagrams" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Max_Points_on_a_line" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Group_Anagrams" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Max_Points_on_a_line" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Remove_Nth_Node_From_End_of_List" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Merge_k_Sorted_Lists" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Max_Points_on_a_line" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Group_Anagrams" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Sudoku_Solver" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Substring_with_concatenation_of_all_Words" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Merge_k_Sorted_Lists" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Remove_Nth_Node_From_End_of_List" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Add_Two_Numbers" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Max_Points_on_a_line" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Group_Anagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -383,20 +417,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-967" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23294243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4573304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2967033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36703297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2742111" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -538,7 +572,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py</url>
-          <line>78</line>
+          <line>66</line>
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -556,6 +590,36 @@
           <line>60</line>
           <option name="timeStamp" value="157" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Remove_Nth_Node_From_End_of_List.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -564,25 +628,19 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="158" />
+      <option name="time" value="171" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="lists[index]" language="Python" />
+        <watch expression="lists[1].next" />
+        <watch expression="s.next" language="Python" />
+        <watch expression="lists[i].val" language="Python" />
+        <watch expression="dummy.next" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sum_two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/house robber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find_minimum_in_rotated_sorted_array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -851,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4541">
           <caret line="242" column="8" lean-forward="false" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,17 +943,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68267">
-          <caret line="3593" column="6" lean-forward="false" selection-start-line="3593" selection-start-column="6" selection-end-line="3593" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/Search_in_Rotated_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
+        <state relative-caret-position="323">
           <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding />
         </state>
@@ -905,7 +953,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/Search_for_a_Range.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
+        <state relative-caret-position="1349">
           <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
           <folding />
         </state>
@@ -919,6 +967,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="216" column="4" lean-forward="false" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hash_table/Group_Anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
@@ -927,28 +993,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/math.py">
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1485548344/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="216" column="4" lean-forward="false" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+        <state relative-caret-position="211">
+          <caret line="3636" column="8" lean-forward="false" selection-start-line="3636" selection-start-column="8" selection-end-line="3636" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hash_table/Max_Points_on_a_line.py">
+    <entry file="file://$PROJECT_DIR$/linked_list/Remove_Nth_Node_From_End_of_List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="478">
+          <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/Add_Two_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="56" column="28" lean-forward="true" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        <state relative-caret-position="440">
+          <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/Merge_k_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
           <folding />
         </state>
       </provider>

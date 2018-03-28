@@ -46,7 +46,7 @@ class Solution:
         # return start
 
 
-        # Good Solution()
+        # Good Solution()!
         d = ListNode(0)
         start = d
         sum = 0
