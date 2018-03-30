@@ -1,4 +1,16 @@
-# Question No.208 Implement Trie(Prefix Tree)
+#Question No.212 Word Search II
+class Solution:
+    def findWords(self, board, words):
+        """
+        :type board: List[List[str]]
+        :type words: List[str]
+        :rtype: List[str]
+        """
+        root = Trie()
+        for i in range(len(board)):
+            for j in range(len(board[i])):
+
+
 class Trie:
     def __init__(self):
         """
@@ -49,7 +61,6 @@ class Trie:
 class TrieNode:
     def __init__(self):
         self.links = [None] * 26
-        self.R = 26
         self.is_end = False
 
     def contiansKey(self, ch):
@@ -66,8 +77,3 @@ class TrieNode:
 
     def isEnd(self):
         return self.is_end
-
-obj = Trie()
-obj.insert('app')
-print(obj.search('apps'))
-print(obj.search('app'))
