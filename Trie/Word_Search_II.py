@@ -8,7 +8,7 @@ class Solution:
         """
         root = Trie()
         for i in range(len(board)):
-            for j in range(len(board[i])):
+            for j in range(len(board[i]))
 
 
 class Trie:

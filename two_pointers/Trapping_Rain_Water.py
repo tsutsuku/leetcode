@@ -1,40 +1,60 @@
-#Question No.42 Trapping Rain Water
+# Question No.42 Trapping Rain Water
 class Solution:
     def trap(self, height):
         """
         :type height: List[int]
         :rtype: int
         """
-        k = 0
-        if k < 3:
-            return 0
+        ## Mine Solution, works, not elegant
+        # total = m = n = 0
+        # for i in range(len(height)):
+        #     if height[i] > m:
+        #         m = height[i]
+        #         n = i
+        #
+        # i = 0
+        # while i < n:
+        #     while i < n and height[i + 1] >= height[i]:
+        #         i += 1
+        #     s = i
+        #     i += 1
+        #     if i >= n:
+        #         break
+        #     while height[i] < height[s]:
+        #         total += height[s] - height[i]
+        #         i += 1
+        # i = len(height) - 1
+        # while i > n:
+        #     while i >  n and height[i - 1] >= height[i]:
+        #         i -= 1
+        #     s = i
+        #     i -= 1
+        #     if i <= n:
+        #         break
+        #     while height[i] < height[s]:
+        #         total += height[s] - height[i]
+        #         i -= 1
+        # return total
 
-        c = total = 0
+        # Good Solution
+        left, right = 0, len(height) -1
+        ans = 0
+        left_max, right_max = 0, 0
+        while left < right:
+            if height[left] < height[right]:
+                if height[left] >= left_max:
+                    left_max = height[left]
+                else:
+                    ans += left_max - height[left]
+                left += 1
+            else:
+                if height[right] >= right_max:
+                    right_max = height[right]
+                else:
+                    ans += right_max - height[right]
+                right -= 1
+        return ans
 
-        while k < len(height):
-            k += 1
-            if height[k] > height[k - 1]:
-                j = i = k
-                while i >0:
-                    i -= 1
-                    if height[i + 1] > height[i]:
 
-                        break
-                    i -= 1
-                while j < len(height):
-
-        while j < len(height):
-            j += 1
-
-
-
-            while height[j] < height[i]:
-                c += height[i] - height[j]
-                j += 1
-                if j == len(height):
-                    return total
-            total, c, i = total + c, 0, j
-        return total
-
-s = [0,1,0,2,1,0,1,3,2,1,2,1]
+s = [1, 7,2, 8]
 print(Solution().trap(s))
