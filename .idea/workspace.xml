@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43cf396f-8a93-436e-99b8-66544731da8e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SymmetricTree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/constructBinaryTreePost.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/constructBinaryTreePre.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/levelOrder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/maxDepth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pathSum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/populatingNextRight.py" />
-    </list>
+    <list default="true" id="43cf396f-8a93-436e-99b8-66544731da8e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
