@@ -11,6 +11,8 @@ class Solution:
         :type x: int
         :rtype: ListNode
         """
+        if not head or not head.next:
+            return head
         s = ListNode(0)
         n = head
         s.next ,p = n , n.next
@@ -24,11 +26,11 @@ class Solution:
 
         return s.next
 
-s = [1,2,4,1,8,1,4,3]
+s = [1,2]
 node = ListNode(s[0])
 d = node
 for i in range(1, len(s)):
     node.next = ListNode(s[i])
     node = node.next
 
-Solution().partition(d, 2)
+Solution().partition(d, 3)
